@@ -201,7 +201,9 @@ img {
 }
 
 /* Show menu */
-
+.show-menu{
+  left: 0;
+}
 
 /* Shadow header */
 
